@@ -1,0 +1,2 @@
+# MultiSyncGigECam
+Sync GigECam shutter.
